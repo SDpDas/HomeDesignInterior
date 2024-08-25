@@ -41,7 +41,7 @@ and aims to serve as a standard website for home shopping. The idea for the proj
 
 2. Shadcn: A great source repo for building icon, textarea, logos, background and other components for frontend.
 
-3. Next.js-14: Latest version of next js used that makes development in react framework much easier...
+3. Next.js-14: Latest version of next js used that makes development in react framework much easier.
 
 4. Balanced use of React components: They didn't have to be used in every links. Good SSR (Server Side Rendering) standards followed.
 
