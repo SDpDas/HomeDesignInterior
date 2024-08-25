@@ -24,7 +24,7 @@ const posts = [
     },
     {
         id: 2,
-        title: "Boost your conversion rate",
+        title: "We have the best decor to offer",
         href: '#',
         description: 'We were blown away by the transformation of our living space. HOMES took the time to understand our preferences and needs, and the results are stunning. The process was seamless, and the final design exceeded our expectations. We are thrilled with our new home!',
         date: '22 July, 2024',
@@ -40,7 +40,7 @@ const posts = [
     },
     {
         id: 3,
-        title: "Boost your conversion rate",
+        title: "State of the art architecture",
         href: '#',
         description: 'HOMES brought a fresh perspective to our renovation project. They managed to create a space that is not only beautiful but also highly functional for our family. The design process was smooth, and the team was always available to answer our questions. We couldn&#39t be more pleased!',
         date: '22 July, 2024',

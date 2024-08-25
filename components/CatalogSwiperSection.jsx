@@ -47,11 +47,10 @@ export default function CatalogSwiperSection() {
                     </p>
 
                     <p>
-                    Homes is a premier interior design firm dedicated to crafting personalized, elegant, and functional spaces. 
-                    With a deep passion for design and a commitment to quality, 
-                    we specialize in transforming homes and businesses into beautiful, inspiring environments. 
-                    Our approach is client-focused, ensuring that every project reflects the unique tastes, needs, and lifestyle of those we serve. 
-                    From concept to completion, we deliver exceptional results that exceed expectations.
+                    As a leading interior design firm, we are dedicated to creating environments that are not only aesthetically pleasing but also deeply personal and highly functional. 
+                    Our team of talented designers brings a wealth of experience and creativity to every project, ensuring that each space we design 
+                    is a perfect reflection of our clients individuality and vision. By combining meticulous attention to detail with innovative design solutions, 
+                    we transform homes and businesses into beautiful, cohesive spaces that inspire and uplift.
                     </p>
                 </motion.div>
 

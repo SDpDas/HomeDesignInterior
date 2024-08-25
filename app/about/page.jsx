@@ -100,7 +100,7 @@ const Page = () => {
                             <div className="p-4 text-center bg-gray-100 aspect-square dark:bg-tertiary -m-0.5 transition
                             hover:-translate-y-3 hover:-translate-x-3">
                                 <Image src="/image/profile2.jpg" width={200} height={200} alt='' className="mx-auto rounded-full"/>
-                                <h2 className="py-4 text-2xl font-semibold uppercase">Building Surveys</h2>
+                                <h2 className="py-4 text-2xl font-semibold uppercase">Building Surveys and Customer Support</h2>
                                 <p>
                                     Creativity is the ability to generate, create or discover new ideas, solutions and possibilities.
                                 </p>
@@ -115,9 +115,9 @@ const Page = () => {
                             <div className="p-4 text-center bg-gray-100 aspect-square dark:bg-tertiary -m-0.5 transition
                             hover:-translate-y-3 hover:-translate-x-3">
                                 <Image src="/image/profile1.jpg" width={200} height={200} alt='' className="mx-auto rounded-full"/>
-                                <h2 className="py-4 text-2xl font-semibold uppercase">Building Surveys</h2>
+                                <h2 className="py-4 text-2xl font-semibold uppercase">Planning Homes and Design</h2>
                                 <p>
-                                    Creativity is the ability to generate, create or discover new ideas, solutions and possibilities.
+                                    Design is not just about making a space look beautiful; it's about creating a place where people feel truly at home
                                 </p>
                             </div>
                         </motion.div>
@@ -130,9 +130,9 @@ const Page = () => {
                             <div className="p-4 text-center bg-gray-100 aspect-square dark:bg-tertiary -m-0.5 transition
                             hover:-translate-y-3 hover:-translate-x-3">
                                 <Image src="/image/profile3.jpg" width={200} height={200} alt='' className="mx-auto rounded-full"/>
-                                <h2 className="py-4 text-2xl font-semibold uppercase">Building Surveys</h2>
+                                <h2 className="py-4 text-2xl font-semibold uppercase">Managing Sales and Day-to-Day operations</h2>
                                 <p>
-                                    Creativity is the ability to generate, create or discover new ideas, solutions and possibilities.
+                                    Great design tells a story—one that captures the essence of who you are and transforms your space into a reflection of your unique style and personality
                                 </p>
                             </div>
                         </motion.div>
