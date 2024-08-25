@@ -29,8 +29,37 @@ To learn more about Next.js, take a look at the following resources:
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+## Description
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+This is a home design website that is fully responsive, non-portfolio, extensive stylised 
+and aims to serve as a standard website for home shopping. The idea for the project was inspired from 
+@frontend-advance
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Features
+
+1. Modern Styling: Used Tailwind.css that allows much different variety of classes and inline by using className. Also they can be used within any div or non div      
+   elements. All this wasn't possible in normal CSS styling.
+
+2. Shadcn: A great source repo for building icon, textarea, logos, background and other components for frontend.
+
+3. Next.js-14: Latest version of next js used that makes development in react framework much easier...
+
+4. Balanced use of React components: They didn't have to be used in every links. Good SSR (Server Side Rendering) standards followed.
+
+5. Great animations: All done with the help of framer-motion. Container variants with type, delay and variation property, both offscreen and onscreen
+   can be used in any react or app components.
+
+## Tech Stack Used
+
+### Backend: React and Next.js
+### Frontend: Tailwind CSS, Bootstrap, Shadcn, Lucide and Framer-motion.
+
+## Screenshots:
+
+![galleryop](https://github.com/user-attachments/assets/fe8a935d-4ebe-4846-9857-47267eb8bc7a)
+
+![homepge](https://github.com/user-attachments/assets/6bc523c6-7dc4-4345-a262-f030c6874077)
+
+![aboutsec](https://github.com/user-attachments/assets/972503e6-6ce7-4826-81c9-cdcd3bc09b61)
+
+## Made by Sagardeep Das
