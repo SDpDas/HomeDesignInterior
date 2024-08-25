@@ -37,8 +37,7 @@ and aims to serve as a standard website for home shopping. The idea for the proj
 
 ## Features
 
-1. Modern Styling: Used Tailwind.css that allows much different variety of classes and inline by using className. Also they can be used within any div or non div      
-   elements. All this wasn't possible in normal CSS styling.
+1. Modern Styling: Used Tailwind.css that allows much different variety of classes and inline by using className. Also they can be used within any div or non div elements. All this wasn't possible in normal CSS styling.
 
 2. Shadcn: A great source repo for building icon, textarea, logos, background and other components for frontend.
 
