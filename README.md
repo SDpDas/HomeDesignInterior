@@ -50,8 +50,14 @@ and aims to serve as a standard website for home shopping. The idea for the proj
 
 ## Tech Stack Used
 
-### Backend: React and Next.js
-### Frontend: Tailwind CSS, Bootstrap, Shadcn, Lucide and Framer-motion.
+### Frontend -  
+
+Next.js 
+Tailwind CSS 
+Bootstrap
+Shadcn
+Lucide-react
+Framer-motion.
 
 ## Screenshots:
 
