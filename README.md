@@ -54,7 +54,6 @@ and aims to serve as a standard website for home shopping. The idea for the proj
 
 Next.js 
 Tailwind CSS 
-Bootstrap
 Shadcn
 Lucide-react
 Framer-motion.
